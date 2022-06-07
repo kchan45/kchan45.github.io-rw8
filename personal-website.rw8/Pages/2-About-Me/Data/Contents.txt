@@ -1,5 +1,5 @@
 <p style="text-align: center;">
-<img src="https://kchan45.github.io/resources/pacifica-profile.JPG" alt="pacifica-profile" width="300">
+<img src="https://kchan45.github.io/resources/pacifica-profile.JPG" alt="pacifica-profile" width="350">
 </p>
 
 # A Short Bio
@@ -14,46 +14,46 @@ In my spare time, Explore northern California and the Bay area and delve into ne
 
 _California has some of the best outdoor landscapes:_
 <p style="text-align: center;">
-<img src="https://kchan45.github.io/resources/nevada-falls.JPG" alt="nevada-falls" width="200">
-<img src="https://kchan45.github.io/resources/vernal-falls.JPG" alt="vernal-falls" width="200">
+<img src="https://kchan45.github.io/resources/nevada-falls.JPG" alt="nevada-falls" width="400">
+<img src="https://kchan45.github.io/resources/vernal-falls.HEIC" alt="vernal-falls" width="400">
 </p>
 
 <p style="text-align: center;">
-<img src="https://kchan45.github.io/resources/redwood-hike.JPG" alt="redwood-hike" width="200">
-<img src="https://kchan45.github.io/resources/santa-cruz-me.JPG" alt="santa-cruz-me" width="200">
+<img src="https://kchan45.github.io/resources/redwood-hike.JPG" alt="redwood-hike" width="400">
+<img src="https://kchan45.github.io/resources/santa-cruz-me.HEIC" alt="santa-cruz-me" width="400">
 </p>
 
 <p style="text-align: center;">
-<img src="https://kchan45.github.io/resources/marina-sunset.JPG" alt="marina-sunset" width="200">
+<img src="https://kchan45.github.io/resources/marina-sunset.HEIC" alt="marina-sunset" width="400">
 </p>
 
 _3-D Printing:_
 <p style="text-align: center;">
-<img src="https://kchan45.github.io/resources/3dbenchy-white.JPG" alt="3dbenchy-white" width="200">
-<img src="https://kchan45.github.io/resources/3dbenchy-bluemarble.JPG" alt="3dbenchy-bluemarble" width="200">
+<img src="https://kchan45.github.io/resources/3dbenchy-white.HEIC" alt="3dbenchy-white" width="400">
+<img src="https://kchan45.github.io/resources/3dbenchy-bluemarble.HEIC" alt="3dbenchy-bluemarble" width="400">
 </p>
 
 <p style="text-align: center;">
-<img src="https://kchan45.github.io/resources/baby-dragon.JPG" alt="baby-dragon" width="200">
+<img src="https://kchan45.github.io/resources/baby-dragon.HEIC" alt="baby-dragon" width="400">
 </p>
 
 
 _Art & Adventure in the Bay Area:_
 <p style="text-align: center;">
-<img src="https://kchan45.github.io/resources/bampfa-mural2021.JPG" alt="bamfa-mural2021" width="200">
-<img src="https://kchan45.github.io/resources/asian-art.JPG" alt="asian-art" width="200">
+<img src="https://kchan45.github.io/resources/bampfa-mural2021.HEIC" alt="bamfa-mural2021" width="400">
+<img src="https://kchan45.github.io/resources/asian-art.HEIC" alt="asian-art" width="400">
 </p>
 
 <p style="text-align: center;">
-<img src="https://kchan45.github.io/resources/me-llama.JPG" alt="me-llama" width="200">
+<img src="https://kchan45.github.io/resources/me-llama.HEIC" alt="me-llama" width="400">
 </p>
 
 _Food P: (home-made and at restaurants):_
 <p style="text-align: center;">
-<img src="https://kchan45.github.io/resources/hot-pot.JPG" alt="hot-pot" width="200">
-<img src="https://kchan45.github.io/resources/chicken-marsala.JPG" alt="chicken-marsala" width="200">
+<img src="https://kchan45.github.io/resources/hot-pot.JPG" alt="hot-pot" width="400">
+<img src="https://kchan45.github.io/resources/chicken-marsala.HEIC" alt="chicken-marsala" width="400">
 </p>
 
 <p style="text-align: center;">
-<img src="https://kchan45.github.io/resources/thanksgiving-food.JPG" alt="thanksgiving-food" width="200">
+<img src="https://kchan45.github.io/resources/thanksgiving-food.HEIC" alt="thanksgiving-food" width="400">
 </p>
