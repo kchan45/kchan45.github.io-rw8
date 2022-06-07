@@ -1,0 +1,59 @@
+<p style="text-align: center;">
+<img src="https://kchan45.github.io/resources/pacifica-profile.JPG" alt="pacifica-profile" width="300">
+</p>
+
+# A Short Bio
+
+I was born and raised in a suburb just south of Atlanta, Georgia. As I grew up, I became increasingly interested in new and emerging technology. I graduated high school in 2014 with a strong interest in STEM. Later that year, I began my undergraduate carreer at the Georgia Institute of Technology, majoring in Chemical & Biomolecular Engineering. As an undergraduate, I became interested in coding as it applied to science and engineering, which led to the addition of a minor in Scientific and Engineering computing. In addition during my time at Georgia Tech, I worked as an undergraduate teaching assistant, a peer tutor, and an undergraduate researcher. As an undergraduate researcher, I worked in [Professor Martin Maldovan](https://www.chbe.gatech.edu/people/martin-maldovan)'s group with [Dr. Juan Manuel Restrepo-Florez](https://scholar.google.com/citations?user=VLMa-k0AAAAJ&hl=en), where I worked on modeling a pipe-in-pipe reactor  using COMSOL for the production of syn gas. I graduated in the spring semester of 2018 with Highest Honors.
+
+I spent a year after college to focus on exploring options for my future. As I was applying to jobs, I found that I had a stronger desire to keep learning and to keep up with the latest and cutting-edge technology. In that regard, I decided to pursue graduate school to feed my hunger for the latest and greatest. I moved across the country to pursue a PhD in Chemical & Biomolecular Engineering at the University of California, Berkeley. At Cal, I am pursuing research with [Professor Ali Mesbah](https://chemistry.berkeley.edu/faculty/cbe/mesbah) on the development of learning-based control and optimization for low-temperature plasmas, which have variety of applications ranging from materials processing to biomedical treatments.
+
+
+In my spare time, Explore northern California and the Bay area and delve into new hobbies and projects, including, but not limited to 3-D printing trinkets and gadgets, building mechanical keyboards, and trying out new food and recipes.
+
+
+_California has some of the best outdoor landscapes:_
+<p style="text-align: center;">
+<img src="https://kchan45.github.io/resources/nevada-falls.JPG" alt="nevada-falls" width="200">
+<img src="https://kchan45.github.io/resources/vernal-falls.JPG" alt="vernal-falls" width="200">
+</p>
+
+<p style="text-align: center;">
+<img src="https://kchan45.github.io/resources/redwood-hike.JPG" alt="redwood-hike" width="200">
+<img src="https://kchan45.github.io/resources/santa-cruz-me.JPG" alt="santa-cruz-me" width="200">
+</p>
+
+<p style="text-align: center;">
+<img src="https://kchan45.github.io/resources/marina-sunset.JPG" alt="marina-sunset" width="200">
+</p>
+
+_3-D Printing:_
+<p style="text-align: center;">
+<img src="https://kchan45.github.io/resources/3dbenchy-white.JPG" alt="3dbenchy-white" width="200">
+<img src="https://kchan45.github.io/resources/3dbenchy-bluemarble.JPG" alt="3dbenchy-bluemarble" width="200">
+</p>
+
+<p style="text-align: center;">
+<img src="https://kchan45.github.io/resources/baby-dragon.JPG" alt="baby-dragon" width="200">
+</p>
+
+
+_Art & Adventure in the Bay Area:_
+<p style="text-align: center;">
+<img src="https://kchan45.github.io/resources/bampfa-mural2021.JPG" alt="bamfa-mural2021" width="200">
+<img src="https://kchan45.github.io/resources/asian-art.JPG" alt="asian-art" width="200">
+</p>
+
+<p style="text-align: center;">
+<img src="https://kchan45.github.io/resources/me-llama.JPG" alt="me-llama" width="200">
+</p>
+
+_Food P: (home-made and at restaurants):_
+<p style="text-align: center;">
+<img src="https://kchan45.github.io/resources/hot-pot.JPG" alt="hot-pot" width="200">
+<img src="https://kchan45.github.io/resources/chicken-marsala.JPG" alt="chicken-marsala" width="200">
+</p>
+
+<p style="text-align: center;">
+<img src="https://kchan45.github.io/resources/thanksgiving-food.JPG" alt="thanksgiving-food" width="200">
+</p>

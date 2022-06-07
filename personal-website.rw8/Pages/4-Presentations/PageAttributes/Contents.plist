@@ -43,6 +43,8 @@
 				<string>markdown-2</string>
 				<key>HasCustomThemeStyle</key>
 				<true/>
+				<key>Hidden</key>
+				<false/>
 				<key>ImageFormat</key>
 				<string>Original</string>
 				<key>ImageQuality</key>

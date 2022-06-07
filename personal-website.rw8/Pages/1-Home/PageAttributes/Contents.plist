@@ -43,6 +43,8 @@
 				<string>home</string>
 				<key>HasCustomThemeStyle</key>
 				<true/>
+				<key>Hidden</key>
+				<false/>
 				<key>ImageFormat</key>
 				<string>Original</string>
 				<key>ImageQuality</key>
@@ -73,6 +75,7 @@
 						<string>Banner.Uppercase Title</string>
 						<string>Content Width.Pixels</string>
 						<string>Headings.Uppercase</string>
+						<string>Navigation.Logo</string>
 						<string>Navigation.Uppercase Links</string>
 						<string>Site Settings.Hide Sidebar</string>
 					</array>

@@ -10,21 +10,21 @@
 			<key>Dictionary</key>
 			<dict>
 				<key>CreatedDate</key>
-				<date>2022-06-06T17:54:50Z</date>
+				<date>2022-06-06T18:30:55Z</date>
 				<key>ID</key>
-				<string>page0</string>
+				<string>page4</string>
 				<key>MostRecentlySelectedStyleName</key>
 				<string>Theme Default</string>
 				<key>PageTitle</key>
 				<string>About Me</string>
 				<key>PluginClassName</key>
-				<string>RWStyledPlugin</string>
+				<string>RWMarkdownPlugin</string>
 				<key>PluginMetadata</key>
 				<dict>
 					<key>Author</key>
 					<string>Realmac Software</string>
 					<key>Name</key>
-					<string>Styled Text</string>
+					<string>Markdown</string>
 					<key>Version</key>
 					<string>7.0</string>
 				</dict>
@@ -32,11 +32,10 @@
 				<dict/>
 			</dict>
 			<key>Files</key>
-			<array>
-				<string>Data.archive</string>
-			</array>
+			<array/>
 			<key>Subsandwiches</key>
 			<array>
+				<string>Data</string>
 				<string>PageAttributes</string>
 			</array>
 		</dict>
