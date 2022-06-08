@@ -23,7 +23,7 @@ Conference Proceedings, American Institute of Chemical Engineers 2020 Annual Mee
 [[Abstract](https://aiche.confex.com/aiche/2020/webprogram/Paper605256.html)] [[Recording](https://youtu.be/7Y0qsM_Sdrg)]
 
 
-## n-th Author Presentations
+## Contributing Presentations
 A reverse chronological list of presentations that I was a co-author in.
 
 * Rodrigues, D., **Chan, K. J.**, & Mesbah, A. (2021). Optimal Control of Dose Delivery in Atmospheric Pressure Plasma Jets. In *2021 AIChE Annual Meeting*.
