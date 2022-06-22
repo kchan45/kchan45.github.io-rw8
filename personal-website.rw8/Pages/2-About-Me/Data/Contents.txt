@@ -1,5 +1,5 @@
 <p style="text-align: center;">
-<img src="https://kchan45.github.io/resources/pacifica-profile.JPG" alt="pacifica-profile" width="350">
+<img src="https://kchan45.github.io/resources/pictures/pacifica-profile.JPG" alt="pacifica-profile" width="350">
 </p>
 
 # A Short Bio
@@ -8,7 +8,7 @@ I was born and raised in a suburb just south of Atlanta, Georgia. As I grew up, 
 
 I spent a year after college to focus on exploring options for my future. As I was applying to jobs, I found that I had a stronger desire to keep learning and to keep up with the latest and cutting-edge technology. In that regard, I decided to pursue graduate school to feed my hunger for the latest and greatest. I moved across the country to pursue a PhD in Chemical & Biomolecular Engineering at the University of California, Berkeley. At Cal, I am pursuing research with [Professor Ali Mesbah](https://chemistry.berkeley.edu/faculty/cbe/mesbah) on the development of learning-based control and optimization for low-temperature plasmas, which have variety of applications ranging from materials processing to biomedical treatments.
 <p style="text-align: center;">
-<img src="https://kchan45.github.io/resources/plasma-jet.jpg" alt="plasma-jet" width="200">
+<img src="https://kchan45.github.io/resources/pictures/plasma-jet.jpg" alt="plasma-jet" width="200">
 </p>
 
 
@@ -17,46 +17,46 @@ In my spare time, Explore northern California and the Bay area and delve into ne
 
 _California has some of the best outdoor landscapes:_
 <p style="text-align: center;">
-<img src="https://kchan45.github.io/resources/nevada-falls.JPG" alt="nevada-falls" width="400">
-<img src="https://kchan45.github.io/resources/vernal-falls.jpg" alt="vernal-falls" width="400">
+<img src="https://kchan45.github.io/resources/pictures/nevada-falls.JPG" alt="nevada-falls" width="400">
+<img src="https://kchan45.github.io/resources/pictures/vernal-falls.jpg" alt="vernal-falls" width="400">
 </p>
 
 <p style="text-align: center;">
-<img src="https://kchan45.github.io/resources/marina-sunset.jpg" alt="marina-sunset" width="400">
-<img src="https://kchan45.github.io/resources/santa-cruz-me.jpg" alt="santa-cruz-me" width="400">
+<img src="https://kchan45.github.io/resources/pictures/marina-sunset.jpg" alt="marina-sunset" width="400">
+<img src="https://kchan45.github.io/resources/pictures/santa-cruz-me.jpg" alt="santa-cruz-me" width="400">
 </p>
 
 <p style="text-align: center;">
-<img src="https://kchan45.github.io/resources/redwood-hike.JPG" alt="redwood-hike" width="400">
+<img src="https://kchan45.github.io/resources/pictures/redwood-hike.JPG" alt="redwood-hike" width="400">
 </p>
 
 _3-D Printing:_
 <p style="text-align: center;">
-<img src="https://kchan45.github.io/resources/3dbenchy-white.jpg" alt="3dbenchy-white" width="400">
-<img src="https://kchan45.github.io/resources/3dbenchy-bluemarble.jpg" alt="3dbenchy-bluemarble" width="400">
+<img src="https://kchan45.github.io/resources/pictures/3dbenchy-white.jpg" alt="3dbenchy-white" width="400">
+<img src="https://kchan45.github.io/resources/pictures/3dbenchy-bluemarble.jpg" alt="3dbenchy-bluemarble" width="400">
 </p>
 
 <p style="text-align: center;">
-<img src="https://kchan45.github.io/resources/baby-dragon.jpg" alt="baby-dragon" width="400">
+<img src="https://kchan45.github.io/resources/pictures/baby-dragon.jpg" alt="baby-dragon" width="400">
 </p>
 
 
 _Art & Adventure in the Bay Area:_
 <p style="text-align: center;">
-<img src="https://kchan45.github.io/resources/bampfa-mural2021.jpg" alt="bampfa-mural2021" width="400">
-<img src="https://kchan45.github.io/resources/asian-art.jpg" alt="asian-art" width="400">
+<img src="https://kchan45.github.io/resources/pictures/bampfa-mural2021.jpg" alt="bampfa-mural2021" width="400">
+<img src="https://kchan45.github.io/resources/pictures/asian-art.jpg" alt="asian-art" width="400">
 </p>
 
 <p style="text-align: center;">
-<img src="https://kchan45.github.io/resources/me-llama.jpg" alt="me-llama" width="400">
+<img src="https://kchan45.github.io/resources/pictures/me-llama.jpg" alt="me-llama" width="400">
 </p>
 
 _Food P: (home-made and at restaurants):_
 <p style="text-align: center;">
-<img src="https://kchan45.github.io/resources/hot-pot.JPG" alt="hot-pot" width="400">
-<img src="https://kchan45.github.io/resources/chicken-marsala.jpg" alt="chicken-marsala" width="400">
+<img src="https://kchan45.github.io/resources/pictures/hot-pot.JPG" alt="hot-pot" width="400">
+<img src="https://kchan45.github.io/resources/pictures/chicken-marsala.jpg" alt="chicken-marsala" width="400">
 </p>
 
 <p style="text-align: center;">
-<img src="https://kchan45.github.io/resources/thanksgiving-food.jpg" alt="thanksgiving-food" width="400">
+<img src="https://kchan45.github.io/resources/pictures/thanksgiving-food.jpg" alt="thanksgiving-food" width="400">
 </p>

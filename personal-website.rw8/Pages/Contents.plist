@@ -18,8 +18,10 @@
 			<array>
 				<string>1-Home</string>
 				<string>2-About-Me</string>
-				<string>3-Publications</string>
-				<string>4-Presentations</string>
+				<string>3-Research</string>
+				<string>4-Publications</string>
+				<string>5-Presentations</string>
+				<string>6-Code</string>
 			</array>
 		</dict>
 	</array>
