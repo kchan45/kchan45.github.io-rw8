@@ -13,6 +13,8 @@
 				<dict>
 					<key>default</key>
 					<true/>
+					<key>file:///Users/kimberlychan/Library/CloudStorage/GoogleDrive-kchan45@berkeley.edu/My%20Drive/GitHub/kchan45.github%202.io/docs/</key>
+					<false/>
 				</dict>
 				<key>ColourStyles</key>
 				<dict>
@@ -42,7 +44,7 @@
 				<key>FolderName</key>
 				<string>presentations</string>
 				<key>HasCustomThemeStyle</key>
-				<true/>
+				<false/>
 				<key>Hidden</key>
 				<false/>
 				<key>ImageFormat</key>
