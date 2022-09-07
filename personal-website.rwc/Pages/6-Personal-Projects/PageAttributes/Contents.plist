@@ -31,8 +31,10 @@
 				<key>FilenameExtension</key>
 				<string>html</string>
 				<key>FolderName</key>
-				<string>markdown</string>
+				<string>personal-projects</string>
 				<key>HasCustomThemeStyle</key>
+				<false/>
+				<key>Hidden</key>
 				<false/>
 				<key>ImageFormat</key>
 				<string>Original</string>

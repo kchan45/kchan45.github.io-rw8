@@ -14,30 +14,30 @@ _Starting off with soldering per-key components (diodes, hotswapabble sockets, m
 </p>
 
 <p style="text-align: center;">
-<img src="https://kchan45.github.io/resources/pictures/sofle-leds-closeup-left.jpg" alt="sofle-leds-closeup-left" width="400">
+<img src="https://kchan45.github.io/resources/pictures/sofle-leds-closeup-left.jpg" alt="sofle-leds-closeup-left" width="300">
 </p>
 
 _Then soldering special components (microcontrollers, encoders, OLED screens, TRRS and reset switches):_
 
 <p style="text-align: center;">
-<img src="https://kchan45.github.io/resources/pictures/sofle-mc-sockets-left.jpg" alt="sofle-mc-sockets-left" width="400">
-<img src="https://kchan45.github.io/resources/pictures/sofle-mc-oled-stack-right.jpg" alt="sofle-mc-olde-stack-right" width="400">
+<img src="https://kchan45.github.io/resources/pictures/sofle-mc-sockets-left.jpg" alt="sofle-mc-sockets-left" width="300">
 </p>
 
 <p style="text-align: center;">
+<img src="https://kchan45.github.io/resources/pictures/sofle-mc-oled-stack-right.jpg" alt="sofle-mc-olde-stack-right" width="400">
 <img src="https://kchan45.github.io/resources/pictures/sofle-encoder-closeup-right.jpg" alt="sofle-encoder-closeup-right" width="400">
 </p>
 
 <p style="text-align: center;">
-<img src="https://kchan45.github.io/resources/pictures/sofle-soldered-right.jpg" alt="sofle-soldered-right" width="400">
+<img src="https://kchan45.github.io/resources/pictures/sofle-soldered-right.jpg" alt="sofle-soldered-right" width="500">
 </p>
 
 
 _Completed keyboard with switches and keycaps installed:_
 
 <p style="text-align: center;">
-<img src="https://kchan45.github.io/resources/pictures/sofle-switches-intalled-left.jpg" alt="sofle-switches-intalled-left" width="400">
-<img src="https://kchan45.github.io/resources/pictures/sofle-switches-intalled-right.jpg" alt="sofle-switches-intalled-right" width="400">
+<img src="https://kchan45.github.io/resources/pictures/sofle-switches-installed-left.jpg" alt="sofle-switches-installed-left" width="400">
+<img src="https://kchan45.github.io/resources/pictures/sofle-switches-installed-right.jpg" alt="sofle-switches-installed-right" width="400">
 </p>
 
 <p style="text-align: center;">
@@ -50,7 +50,7 @@ _Completed keyboard with a case:_
 The files for printing this case are [here](https://www.thingiverse.com/thing:5278550), though I did not use the gasket mount technique, just opting for rubber feet to lift the keyboard to fit the case.
 
 <p style="text-align: center;">
-<img src="https://kchan45.github.io/resources/pictures/sofle-keyboard-plus-unfinished-case.jpg" alt="sofle-keyboard-plus-unfinished-case" width="400">
+<img src="https://kchan45.github.io/resources/pictures/sofle-keyboard-plus-unfinished-case.jpg" alt="sofle-keyboard-plus-unfinished-case" width="500">
 </p>
 
 The case had some imperfections from printing...
@@ -63,12 +63,12 @@ The case had some imperfections from printing...
 ...but was remedied with some wood filler and stain.
 
 <p style="text-align: center;">
-<img src="https://kchan45.github.io/resources/pictures/sofle-case-filled-stained-closeup-right.jpg" alt="sofle-case-filled-stained-closeup-right" width="400">
-<img src="https://kchan45.github.io/resources/pictures/sofle-case-stained-parts.jpg" alt="sofle-case-stained-parts" width="400">
+<img src="https://kchan45.github.io/resources/pictures/sofle-case-filled-stained-closeup-right.jpg" alt="sofle-case-filled-stained-closeup-right" width="300">
+<img src="https://kchan45.github.io/resources/pictures/sofle-case-stained-parts.jpg" alt="sofle-case-stained-parts" width="300">
 </p>
 
 <p style="text-align: center;">
-<img src="https://kchan45.github.io/resources/pictures/sofle-finished-case.jpg" alt="sofle-finished-case" width="400">
+<img src="https://kchan45.github.io/resources/pictures/sofle-finished-case.jpg" alt="sofle-finished-case" width="600">
 </p>
 
 _Keyboard with handwritten legends:_

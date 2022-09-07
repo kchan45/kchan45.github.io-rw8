@@ -33,7 +33,7 @@
 					<key>file:///Users/kimberlychan/Library/CloudStorage/GoogleDrive-kchan45@berkeley.edu/My%20Drive/GitHub/kchan45.github.io/docs/</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2022-09-07T18:18:51Z</date>
+						<date>2022-09-07T18:44:00Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -42,17 +42,17 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								TeL1h/MMxwd4
-								PJE9fGgn3A==
+								PT9NvkUqCUij
+								/+Eo0B6IwA==
 								</data>
 								<key>Size</key>
-								<integer>10976</integer>
+								<integer>11034</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
 						<string>page7</string>
 						<key>SiteRoot</key>
-						<string>markdown/markdown-2</string>
+						<string>personal-projects/split-mech-keyboard</string>
 						<key>Version</key>
 						<integer>3</integer>
 					</dict>
