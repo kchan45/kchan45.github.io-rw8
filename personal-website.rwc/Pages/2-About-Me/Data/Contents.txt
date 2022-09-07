@@ -1,0 +1,62 @@
+<p style="text-align: center;">
+<img src="https://kchan45.github.io/resources/pictures/pacifica-profile.JPG" alt="pacifica-profile" width="350">
+</p>
+
+# A Short Bio
+
+I was born and raised in a suburb just south of Atlanta, Georgia. As I grew up, I became increasingly interested in new and emerging technology. I graduated high school in 2014 with a strong interest in STEM. Later that year, I began my undergraduate carreer at the Georgia Institute of Technology, majoring in Chemical & Biomolecular Engineering. As an undergraduate, I became interested in coding as it applied to science and engineering, which led to the addition of a minor in Scientific and Engineering computing. In addition during my time at Georgia Tech, I worked as an undergraduate teaching assistant, a peer tutor, and an undergraduate researcher. As an undergraduate researcher, I worked in [Professor Martin Maldovan](https://www.chbe.gatech.edu/people/martin-maldovan)'s group with [Dr. Juan Manuel Restrepo-Florez](https://scholar.google.com/citations?user=VLMa-k0AAAAJ&hl=en), where I worked on modeling a pipe-in-pipe reactor  using COMSOL for the production of syn gas. I graduated in the spring semester of 2018 with Highest Honors.
+
+I spent a year after college to focus on exploring options for my future. As I was applying to jobs, I found that I had a stronger desire to keep learning and to keep up with the latest and cutting-edge technology. In that regard, I decided to pursue graduate school to feed my hunger for the latest and greatest. I moved across the country to pursue a PhD in Chemical & Biomolecular Engineering at the University of California, Berkeley. At Cal, I am pursuing research with [Professor Ali Mesbah](https://chemistry.berkeley.edu/faculty/cbe/mesbah) on the development of learning-based control and optimization for low-temperature plasmas, which have variety of applications ranging from materials processing to biomedical treatments.
+<p style="text-align: center;">
+<img src="https://kchan45.github.io/resources/pictures/plasma-jet.jpg" alt="plasma-jet" width="200">
+</p>
+
+
+In my spare time, Explore northern California and the Bay area and delve into new hobbies and projects, including, but not limited to 3-D printing trinkets and gadgets, building mechanical keyboards, and trying out new food and recipes.
+
+
+_California has some of the best outdoor landscapes:_
+<p style="text-align: center;">
+<img src="https://kchan45.github.io/resources/pictures/nevada-falls.JPG" alt="nevada-falls" width="400">
+<img src="https://kchan45.github.io/resources/pictures/vernal-falls.jpg" alt="vernal-falls" width="400">
+</p>
+
+<p style="text-align: center;">
+<img src="https://kchan45.github.io/resources/pictures/marina-sunset.jpg" alt="marina-sunset" width="400">
+<img src="https://kchan45.github.io/resources/pictures/santa-cruz-me.jpg" alt="santa-cruz-me" width="400">
+</p>
+
+<p style="text-align: center;">
+<img src="https://kchan45.github.io/resources/pictures/redwood-hike.JPG" alt="redwood-hike" width="400">
+</p>
+
+_3-D Printing:_
+<p style="text-align: center;">
+<img src="https://kchan45.github.io/resources/pictures/3dbenchy-white.jpg" alt="3dbenchy-white" width="400">
+<img src="https://kchan45.github.io/resources/pictures/3dbenchy-bluemarble.jpg" alt="3dbenchy-bluemarble" width="400">
+</p>
+
+<p style="text-align: center;">
+<img src="https://kchan45.github.io/resources/pictures/baby-dragon.jpg" alt="baby-dragon" width="400">
+</p>
+
+
+_Art & Adventure in the Bay Area:_
+<p style="text-align: center;">
+<img src="https://kchan45.github.io/resources/pictures/bampfa-mural2021.jpg" alt="bampfa-mural2021" width="400">
+<img src="https://kchan45.github.io/resources/pictures/asian-art.jpg" alt="asian-art" width="400">
+</p>
+
+<p style="text-align: center;">
+<img src="https://kchan45.github.io/resources/pictures/me-llama.jpg" alt="me-llama" width="400">
+</p>
+
+_Food P: (home-made and at restaurants):_
+<p style="text-align: center;">
+<img src="https://kchan45.github.io/resources/pictures/hot-pot.JPG" alt="hot-pot" width="400">
+<img src="https://kchan45.github.io/resources/pictures/chicken-marsala.jpg" alt="chicken-marsala" width="400">
+</p>
+
+<p style="text-align: center;">
+<img src="https://kchan45.github.io/resources/pictures/thanksgiving-food.jpg" alt="thanksgiving-food" width="400">
+</p>

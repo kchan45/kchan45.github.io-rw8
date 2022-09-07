@@ -1,0 +1,26 @@
+<p style="text-align: center;">
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/xFGm9tlzlEM?controls=0&mute=1" title="Plasma Jet in Operation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+
+I am pursuing research with [Professor Ali Mesbah](https://chemistry.berkeley.edu/faculty/cbe/mesbah) on the development of learning-based control and optimization of low-temperature plasma treatments, with special focus in biomedical applications.
+
+Plasma is widely known as the fourth state of matter; they are known as (partially) ionized gases. Cold atmospheric plasmas are a type of low-temperature plasmas that exist at less than 40 degrees Celsius and at atmospheric pressure. They exist in a non-equilibrium state and produce a variety of agents, including reactive species, charged particles, photons, and electric fields, which have been shown to promote advantageous biological responses. Much work is going into elucidating the mechanisms behind the synergistic effects of plasma and the resulting biological response.
+
+(Atmospheric pressure) Plasma jets are portable devices to generate these cold plasmas such that the treatments can be delivered to a targeted surface or location. The use of plasma jets currently relies on user expertise and visual cues to properly treat a biological substrate. The desire to place complex control strategies to mitigate the learning curve for operating these plasma devices offers a wide array of opportunities for machine learning and learning-based control.
+
+### Robust Control for Safe Plasma Treatments
+
+Plasma is a challenging substance to control. Non-equilibrium dynamics coupled with complex substrate interactions means that plasma treatments are instrinsically variable with respect to application type, different patients, and even different environments. Safety in the presence of these uncertainties is of the utmost importance for plasma medicine, necessitating complex control strategies that systematically account for the predicted uncertainty.
+
+### Deep Learning for Embedded Control
+
+Embedded systems are a large part of many of the devices we have in the modern era. Advances in both the hardware and software side of modern devices has contributed to a rapid increase in digital technology. The microprocessor has been touted as the turning point for much of the modern-day control capabilities, but has nearly reached its limits. As such, specialized hardware technologies to divide-and-conquer complex algorithms have emerged as means to combat reaching this limit. Even so, these small-scale hardware devices have limited capabilities and can require specialized training to implement. Deep learning offers a systematic approach to embedded control algorithms by means of approximation.
+
+### Learning-based Control for Adaptive Plasma Treatment Protocols
+
+Other than intrinsic variability, plasma dynamics are notoriously difficult to predict and quantify in the context of biomedical treatments. Recent strides in learning-based control demonstrate the capability to make up for unknown dynamics and uncertain systems, but rely on the basis of collecting plentiful and representative data. Meanwhile, plasma in healthcare is not intended to be a trial-and-error approach. Thus, a data-efficient means of learning is necessary in the advancement of optimizing treatment practices for improving treatment outcomes.
+
+### Plasma Jet Testbed
+
+Computational studies are a useful test environment for proof-of-concept, but are limited in their ability to capture the true system. Using an in-house plasma jet (originally build in conjunction with the [Graves lab](http://www.graveslab.org)), we can demonstrate the utility of proposed strategies in a real system subject to truly uncertain/variable environments.
+

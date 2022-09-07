@@ -1,0 +1,10 @@
+# Publications
+
+[[Google Scholar](https://scholar.google.com/citations?user=efPpgekAAAAJ&hl=en&authuser=1)] 
+[[ORCID](https://orcid.org/0000-0002-9460-1653)]
+
+*Note: Publications are listed in reverse chronological order.*
+
+* Rodrigues, D., **Chan, K. J.**, & Mesbah, A. (2022). Data-Driven Adaptive Optimal Control Under Model Uncertainty: An Application to Cold Atmospheric Plasmas. *IEEE Transactions on Control Systems Technology*. [**DOI**](https://doi.org/10.1109/TCST.2022.3172597)
+
+* **Chan, K. J.**, Paulson, J. A., & Mesbah, A. (2021, May). Deep Learning-based Approximate Nonlinear Model Predictive Control with Offset-free Tracking for Embedded Applications. In *2021 American Control Conference (ACC)* (pp. 3475-3481). IEEE. [**DOI**](https://doi.org/10.23919/ACC50511.2021.9482849)

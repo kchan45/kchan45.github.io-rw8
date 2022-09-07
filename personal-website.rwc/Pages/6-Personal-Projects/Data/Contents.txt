@@ -1,0 +1,7 @@
+# Personal Projects
+A look at some projects I work on in my free time
+
+
+### Building a Split Mechanical Keyboard
+I have been an enthusiast of mechanical keyboards since I got my first Magicforce 68 keyboard several years ago. While I enjoyed this keyboard, I grew up using laptop keyboards, so I always preferred a lower profile keyboard. Thus, my next keyboard was a Hexgears X-1, which I enjoyed using for a few years. As the pandemic solidified the need to be in front of a computer throughout the workday, I got increasingly concerned with ergonomics and ensuring I developed healthy practices. It was then I started to consider split keyboards, which are comprised of two halves of a keyboard so that they can be placed separately for each hand. The community of split mechanical keyboards is a fairly niche community, with most keyboard designs put together by enthusiasts and rarely any in commercial production. Thus, during the summer of 2022, I finally decided that I would build my own keyboard, a Sofle Choc, using a kit from Brian Low. [Check out a photo journey through the process!](https://kchan45.github.io/personal-projects/split-mech-keyboard)
+

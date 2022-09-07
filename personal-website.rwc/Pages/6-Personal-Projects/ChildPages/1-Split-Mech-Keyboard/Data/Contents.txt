@@ -1,0 +1,95 @@
+# Building a Split Mechanical Keyboard
+
+This keyboard was built using the kit made by [Brian Low](https://choc.brianlow.com). The switches and keycaps were obtained from [MKUltra Corporation](https://mkultra.click). The keyboard case was 3-D printed using Hatchbox wood filament on a Creality Ender 3 v2.
+
+_Starting off with soldering per-key components (diodes, hotswapabble sockets, mini LEDs):_
+
+<p style="text-align: center;">
+<img src="https://kchan45.github.io/resources/pictures/sofle-diodes-left.jpg" alt="sofle-diodes-left" width="400">
+</p>
+
+<p style="text-align: center;">
+<img src="https://kchan45.github.io/resources/pictures/sofle-hotswap-right.jpg" alt="sofle-hotswap-right" width="400">
+<img src="https://kchan45.github.io/resources/pictures/sofle-hotswap-closeup-right.jpg" alt="sofle-hotswap-closeup-right" width="400">
+</p>
+
+<p style="text-align: center;">
+<img src="https://kchan45.github.io/resources/pictures/sofle-leds-closeup-left.jpg" alt="sofle-leds-closeup-left" width="400">
+</p>
+
+_Then soldering special components (microcontrollers, encoders, OLED screens, TRRS and reset switches):_
+
+<p style="text-align: center;">
+<img src="https://kchan45.github.io/resources/pictures/sofle-mc-sockets-left.jpg" alt="sofle-mc-sockets-left" width="400">
+<img src="https://kchan45.github.io/resources/pictures/sofle-mc-oled-stack-right.jpg" alt="sofle-mc-olde-stack-right" width="400">
+</p>
+
+<p style="text-align: center;">
+<img src="https://kchan45.github.io/resources/pictures/sofle-encoder-closeup-right.jpg" alt="sofle-encoder-closeup-right" width="400">
+</p>
+
+<p style="text-align: center;">
+<img src="https://kchan45.github.io/resources/pictures/sofle-soldered-right.jpg" alt="sofle-soldered-right" width="400">
+</p>
+
+
+_Completed keyboard with switches and keycaps installed:_
+
+<p style="text-align: center;">
+<img src="https://kchan45.github.io/resources/pictures/sofle-switches-intalled-left.jpg" alt="sofle-switches-intalled-left" width="400">
+<img src="https://kchan45.github.io/resources/pictures/sofle-switches-intalled-right.jpg" alt="sofle-switches-intalled-right" width="400">
+</p>
+
+<p style="text-align: center;">
+<img src="https://kchan45.github.io/resources/pictures/sofle-complete-keyboard.jpg" alt="sofle-complete-keyboard" width="400">
+<img src="https://kchan45.github.io/resources/pictures/sofle-complete-keyboard-on.jpg" alt="sofle-complete-keyboard-on" width="400">
+</p>
+
+_Completed keyboard with a case:_
+
+The files for printing this case are [here](https://www.thingiverse.com/thing:5278550), though I did not use the gasket mount technique, just opting for rubber feet to lift the keyboard to fit the case.
+
+<p style="text-align: center;">
+<img src="https://kchan45.github.io/resources/pictures/sofle-keyboard-plus-unfinished-case.jpg" alt="sofle-keyboard-plus-unfinished-case" width="400">
+</p>
+
+The case had some imperfections from printing...
+
+<p style="text-align: center;">
+<img src="https://kchan45.github.io/resources/pictures/sofle-case-imperfections-left.jpg" alt="sofle-case-imperfections-left" width="400">
+<img src="https://kchan45.github.io/resources/pictures/sofle-case-imperfections-right.jpg" alt="sofle-case-imperfections-right" width="400">
+</p>
+
+...but was remedied with some wood filler and stain.
+
+<p style="text-align: center;">
+<img src="https://kchan45.github.io/resources/pictures/sofle-case-filled-stained-closeup-right.jpg" alt="sofle-case-filled-stained-closeup-right" width="400">
+<img src="https://kchan45.github.io/resources/pictures/sofle-case-stained-parts.jpg" alt="sofle-case-stained-parts" width="400">
+</p>
+
+<p style="text-align: center;">
+<img src="https://kchan45.github.io/resources/pictures/sofle-finished-case.jpg" alt="sofle-finished-case" width="400">
+</p>
+
+_Keyboard with handwritten legends:_
+<p style="text-align: center;">
+<img src="https://kchan45.github.io/resources/pictures/sofle-hand-legends-left.jpg" alt="sofle-hand-legends-left" width="400">
+<img src="https://kchan45.github.io/resources/pictures/sofle-hand-legends-right.jpg" alt="sofle-hand-legends-right" width="400">
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

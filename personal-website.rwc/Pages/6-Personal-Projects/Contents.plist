@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Creator</key>
+	<string></string>
+	<key>SandwichFillings</key>
+	<array>
+		<dict>
+			<key>Dictionary</key>
+			<dict>
+				<key>CreatedDate</key>
+				<date>2022-09-07T17:07:42Z</date>
+				<key>ID</key>
+				<string>page6</string>
+				<key>MostRecentlySelectedStyleName</key>
+				<string>Theme Default</string>
+				<key>PageTitle</key>
+				<string>Personal Projects</string>
+				<key>PluginClassName</key>
+				<string>RWMarkdownPlugin</string>
+				<key>PluginMetadata</key>
+				<dict>
+					<key>Author</key>
+					<string>Realmac Software</string>
+					<key>Name</key>
+					<string>Markdown</string>
+					<key>Version</key>
+					<string>7.0</string>
+				</dict>
+				<key>PublishingManifests</key>
+				<dict>
+					<key>file:///Users/kimberlychan/Library/CloudStorage/GoogleDrive-kchan45@berkeley.edu/My%20Drive/GitHub/kchan45.github.io/docs/</key>
+					<dict>
+						<key>CreationDate</key>
+						<date>2022-09-07T18:18:51Z</date>
+						<key>DigestAlgorithm</key>
+						<string>MD5</string>
+						<key>PageDigests</key>
+						<dict>
+							<key>index.html</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								xqR1SEL0tc1Q
+								OxhzlUTy/g==
+								</data>
+								<key>Size</key>
+								<integer>7954</integer>
+							</dict>
+						</dict>
+						<key>PageID</key>
+						<string>page6</string>
+						<key>SiteRoot</key>
+						<string>markdown</string>
+						<key>Version</key>
+						<integer>3</integer>
+					</dict>
+				</dict>
+			</dict>
+			<key>Files</key>
+			<array/>
+			<key>Subsandwiches</key>
+			<array>
+				<string>ChildPages</string>
+				<string>Data</string>
+				<string>PageAttributes</string>
+			</array>
+		</dict>
+	</array>
+	<key>Type</key>
+	<string>Page</string>
+</dict>
+</plist>

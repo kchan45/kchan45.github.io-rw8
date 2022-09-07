@@ -2,18 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://kchan45.github.io/index.html</loc>
-		<lastmod>2022-06-22</lastmod>
 	</url>
 	<url>
 		<loc>https://kchan45.github.io/about-me/index.html</loc>
-		<lastmod>2022-06-22</lastmod>
 	</url>
 	<url>
 		<loc>https://kchan45.github.io/publications/index.html</loc>
-		<lastmod>2022-06-22</lastmod>
 	</url>
 	<url>
 		<loc>https://kchan45.github.io/presentations/index.html</loc>
-		<lastmod>2022-06-22</lastmod>
+	</url>
+	<url>
+		<loc>https://kchan45.github.io/markdown/index.html</loc>
+	</url>
+	<url>
+		<loc>https://kchan45.github.io/markdown/markdown-2/index.html</loc>
 	</url>
 </urlset>
