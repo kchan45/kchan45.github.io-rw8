@@ -79,12 +79,17 @@
 						<string>Banner.Uppercase Title</string>
 						<string>Content Width.Pixels</string>
 						<string>Headings.Uppercase</string>
+						<string>Navigation.Logo</string>
 						<string>Navigation.Uppercase Links</string>
-						<string>Site Settings.Hide Sidebar</string>
 					</array>
 				</dict>
 				<key>Variables</key>
-				<dict/>
+				<dict>
+					<key>%content_width%</key>
+					<string>6</string>
+					<key>%sidebar_width%</key>
+					<string>6</string>
+				</dict>
 				<key>openGraphDescription</key>
 				<string>This is the home page</string>
 				<key>openGraphTitle</key>
