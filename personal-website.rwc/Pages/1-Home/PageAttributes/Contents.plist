@@ -69,6 +69,8 @@
 				<true/>
 				<key>SidebarEnabled</key>
 				<integer>1</integer>
+				<key>SidebarTitle</key>
+				<string>ABOUT</string>
 				<key>TextEncoding</key>
 				<string>utf-8</string>
 				<key>ThemeStyles</key>
@@ -96,7 +98,9 @@
 				<string>Home</string>
 			</dict>
 			<key>Files</key>
-			<array/>
+			<array>
+				<string>Sidebar.as</string>
+			</array>
 			<key>Subsandwiches</key>
 			<array/>
 		</dict>
